@@ -10,7 +10,7 @@
 - Software Engineering
 
 ### 💬 Ask me about
-- C, C++, Java
+- C, C++, Java, Python
 
 ### 📫 Contact me
 - Email: sharmelasaba@email.com
